@@ -2,6 +2,8 @@
 
 ## 預覽
 
+![a](https://github.com/ItMarki/k8x12plus/blob/main/images/1.png)
+
 ## 授權許可
 
 k8x12+ 以 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 發行。
