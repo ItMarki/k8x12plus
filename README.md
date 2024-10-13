@@ -19,4 +19,4 @@ k8x12+ 以 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 發行。
 
 ## 鳴謝
 - [門真なむ](http://littlelimit.net)提供原字型。
-- scott0107000的[目哉像素体](https://github.com/DWNfonts/MuzaiPixel)提供部分字形作為藍本。
+- DWNfonts製作的[目哉像素体](https://github.com/DWNfonts/MuzaiPixel)提供部分字形作為藍本。
